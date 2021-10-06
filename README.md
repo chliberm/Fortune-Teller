@@ -1,5 +1,5 @@
 # The Fortune Telling Wheel 
-## The Classes anf files
+## The Classes and files
 This program includes several class that inherit from the super class
 "Shape". These classes include: the rectangle ("Rect) class, the "Button" class (which inherits from "Rect"),
 the "Slice" class, and the "Wheel" class (inherits from "FortuneTeller" as well as shape). The program also 
